@@ -1,3 +1,10 @@
+# Online Shopping Mall Project
+
+> This project is available online now: [click me](https://zoey-crwn-demo.herokuapp.com/). It is developed based on a [Udemy](https://www.udemy.com/share/101Wf4AEcZcFlbQ38J/) course made by Andrei Neagoie.
+
+
+> This following part is generated automatically by react.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
